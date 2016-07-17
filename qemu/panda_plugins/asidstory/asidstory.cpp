@@ -39,6 +39,7 @@
 #include <cstring>
 #include <sstream>
 #include <iomanip>
+#include <vector>
 
 extern "C" {
 
