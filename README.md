@@ -33,7 +33,7 @@ source. On Ubuntu 14.04 this will happen automatically via `panda_install.bash`.
 We don't currently support building on Mac/BSD, although it shouldn't be
 impossible with a few patches. We do rely on a few Linux-specific APIs.
 
-NOTE: complete 
+NOTE: complete building instructions [here](docs/compile.md)
 
 ## Support
 
@@ -42,7 +42,6 @@ IRC channel at #panda-re on Freenode, or join the [PANDA mailing
 list](http://mailman.mit.edu/mailman/listinfo/panda-users).
 
 We have a basic manual [here](docs/manual.md).
-[BUILD](docs/compile.md)
 
 ## PANDA Plugins
 
