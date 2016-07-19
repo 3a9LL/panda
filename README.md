@@ -41,7 +41,8 @@ If you need help with PANDA, or want to discuss the project, you can join our
 IRC channel at #panda-re on Freenode, or join the [PANDA mailing
 list](http://mailman.mit.edu/mailman/listinfo/panda-users).
 
-We have a basic manual [here](docs/manual.md).build instruction [here](https://github.com/3a9LL/panda/blob/master/docs/compile.md)
+We have a basic manual [here](docs/manual.md).
+[BUILD](docs/compile.md)
 
 ## PANDA Plugins
 
